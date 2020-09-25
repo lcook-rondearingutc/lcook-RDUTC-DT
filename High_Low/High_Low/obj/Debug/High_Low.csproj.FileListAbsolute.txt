@@ -1,0 +1,7 @@
+P:\Digital\VS\18Louis Cook\High_Low\High_Low\bin\Debug\High_Low.exe.config
+P:\Digital\VS\18Louis Cook\High_Low\High_Low\bin\Debug\High_Low.exe
+P:\Digital\VS\18Louis Cook\High_Low\High_Low\bin\Debug\High_Low.pdb
+P:\Digital\VS\18Louis Cook\High_Low\High_Low\obj\Debug\High_Low.csprojAssemblyReference.cache
+P:\Digital\VS\18Louis Cook\High_Low\High_Low\obj\Debug\High_Low.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Louis Cook\High_Low\High_Low\obj\Debug\High_Low.exe
+P:\Digital\VS\18Louis Cook\High_Low\High_Low\obj\Debug\High_Low.pdb
