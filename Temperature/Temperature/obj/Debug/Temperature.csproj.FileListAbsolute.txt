@@ -1,0 +1,7 @@
+P:\Digital\VS\18Louis Cook\Temperature\Temperature\obj\Debug\Temperature.csprojAssemblyReference.cache
+P:\Digital\VS\18Louis Cook\Temperature\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Louis Cook\Temperature\Temperature\bin\Debug\Temperature.exe.config
+P:\Digital\VS\18Louis Cook\Temperature\Temperature\bin\Debug\Temperature.exe
+P:\Digital\VS\18Louis Cook\Temperature\Temperature\bin\Debug\Temperature.pdb
+P:\Digital\VS\18Louis Cook\Temperature\Temperature\obj\Debug\Temperature.exe
+P:\Digital\VS\18Louis Cook\Temperature\Temperature\obj\Debug\Temperature.pdb
